@@ -7,7 +7,6 @@
 * Installation.
 * Architecture.
 * How can this be extended in different domains?
-* 
 
 ## Installation
 
