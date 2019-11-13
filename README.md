@@ -23,4 +23,4 @@ Tools needed for this project.
 * Factory Pattern
 * Mapping Pattern
 
-For more details contact me at gharishkumar@gmail.com
+For more details contact at gharishkumar@gmail.com
