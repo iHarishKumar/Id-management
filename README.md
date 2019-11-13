@@ -2,11 +2,6 @@
 
 > A truely decentralised identity management using ERC721 token.
 
-#### Table of contents
-
-* Installation.
-* Architecture.
-* How can this be extended in different domains?
 
 ## Installation
 
