@@ -9,7 +9,7 @@
 * How can this be extended in different domains?
 * 
 
-##Installation
+## Installation
 
 Tools needed for this project.
 
@@ -24,7 +24,4 @@ Tools needed for this project.
 * Factory Pattern
 * Mapping Pattern
 
-For the brief explanation of the project refer to the slides.
-
 For more details contact me at gharishkumar@gmail.com
-
